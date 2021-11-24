@@ -1,8 +1,8 @@
 ### Hey, I'm Matthew!
 
-👨‍🎓 I'm a Ph.D. student in machine learning for [smart manufacturing](https://manufai.engr.uky.edu) at the University of Kentucky (since 2019)
+👨‍🎓 I'm a Ph.D. candidate in deep learning for [smart manufacturing](https://manufai.engr.uky.edu) at the University of Kentucky (since 2019)
 
-🚀 During the summer, I am a developer for NASA Johnson Space Center and architect and code software experiments as a Pathways Graduate Intern (since 2017)
+🚀 During the summer, I am a developer for NASA Johnson Space Center where I architect and code software experiments as a Pathways Graduate Intern (since 2017)
 
 🎉 Some of my previous NASA work has been open sourced at https://github.com/nasa/CTF/tree/master/tools/ctf_ui
 
