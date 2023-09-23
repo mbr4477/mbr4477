@@ -1,11 +1,11 @@
 ### Hey, I'm Matthew!
 
-👨‍🎓 I'm a Ph.D. candidate in deep learning for [smart manufacturing](https://manufai.engr.uky.edu) at the University of Kentucky (since 2019)
+⚾️ I'm a Data Scientist with the Cleveland Guardians, using neural networks to assess players.
 
-🚀 During the summer, I am a developer for NASA Johnson Space Center where I architect and code software experiments as a Pathways Graduate Intern (since 2017)
+👨‍🎓 I recently completed my Ph.D. in deep learning for [smart manufacturing](https://manufai.engr.uky.edu) at the University of Kentucky
 
 🎉 Some of my previous NASA work has been open sourced at https://github.com/nasa/CTF/tree/master/tools/ctf_ui
 
-🎓 Check out my recent paper [Stochastic modeling for tracking and prediction of gradual and transient battery performance degradation](https://www.sciencedirect.com/science/article/pii/S0278612521000881) and our [feature article](https://www.engr.uky.edu/news/2021/10/aism-lab-wins-outstanding-paper-award-namrc-49)
+🎓 Check out my recent paper [Maximizing Model Generalization for Machine Condition Monitoring using Self-Supervised and Federated Learning](https://arxiv.org/abs/2304.14398) that was accepted for publication in *Journal of Manufacturing Systems*. (See the rest of my papers at https://mruss.dev/papers)
 
 💬 Talk to me about software architecture, deep learning, Python, software engineering, or space
